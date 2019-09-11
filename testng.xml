@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="30" name="Suite" parallel="tests">
+
+    <test name="goibibo">
+        <classes>
+            <class name="TestCase_01" />
+        </classes>
+    </test>
+
+</suite>
